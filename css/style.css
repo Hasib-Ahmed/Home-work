@@ -1,0 +1,38 @@
+.header{
+	
+	background-color:gold;
+text-align: center;
+border: solid;
+
+}
+.wrapper{
+      overflow: hidden;
+}
+
+.blog{
+	min-height: 150px;
+	background-color:yellow;
+	width: 60%;
+	float: left;
+
+
+
+}
+.contact{
+	min-height: 150px;
+	background-color:aqua;
+	width: 40%;
+	float: right;
+}
+.yt {
+    margin-top: 10px;
+    text-align: center;
+    background-color: gold;
+    border: solid;
+}
+
+.footer{
+text-align: center;
+background-color: yellow;
+min-height: 50px;
+}
